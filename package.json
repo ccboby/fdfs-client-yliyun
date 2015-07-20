@@ -1,6 +1,6 @@
 {
   "name": "fdfs-client-yliyun",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "Client for FastDFS",
   "main": "index.js",
   "scripts": {
